@@ -1,0 +1,81 @@
+
+h1 {
+  text-align: center;
+  margin: 20px;
+}
+
+.team-name-home {
+  margin: 50px;
+  margin-left: 55px;
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.team-name-away {
+  margin: 50px;
+  margin-left: 52px;
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.score {
+  display: flex;
+  width: 160px;
+  height: 120px;
+  align-items: center;
+  background-color: black;
+  margin-left: 35px;
+  border-radius: 2px;
+  border-style: inset;
+  border-color: #EEEEEE;
+}
+
+.points-text {
+  position: relative;
+  top: 5px;
+  left: 51px;
+  font-family: 'Cursed Timer ULiL';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 90px;
+  line-height: 127px;
+  text-align: center;
+  color: #F94F6D;
+}
+
+.add-points {
+  margin-top: 10px;
+  margin-left: 30px;
+  padding: 10px;
+  align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: #1B244A;
+    color: #EEEEEE;
+    width: 515px;
+    height: 350px;
+    border-radius: 16px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 20px;
+}
+
+.section-home {
+  margin-bottom: 80px;
+}
+
+.section-away {
+  margin-bottom: 80px;
+}
+
+.reset-btn {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+  padding:0px;
+}
